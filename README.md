@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R-Kanan
-- 👀 I’m interested in data and its depths
-- 🌱 I’m currently developing myself as a data scientist
+- 👀 I’m interested in deep learning, machine learning, and software engineering
+- 🌱 I’m currently working as a data scientist
 - 📫 You can also contact me via my email address:
 kananrahimli00@gmail.com
 
